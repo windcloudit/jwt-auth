@@ -1,5 +1,5 @@
 {
-    "name": "tymon/jwt-auth",
+    "name": "windcloud/jwt-auth",
     "description": "JSON Web Token Authentication for Laravel and Lumen",
     "keywords": [
         "auth",
@@ -16,9 +16,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Sean Tymon",
-            "email": "tymon148@gmail.com",
-            "homepage": "https://tymon.xyz",
+            "name": "Tat.Pham",
+            "email": "tat.pham89@gmail.com",
+            "homepage": "https://henhoonline.net",
             "role": "Developer"
         }
     ],
